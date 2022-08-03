@@ -1,0 +1,8 @@
+[
+    {
+        "clientId": "democlient",
+        "clientSecret": "democlientsecret",
+        "redirectUris": ["http://localhost:3080/Login"],
+        "grants": ["password", "refresh_token"]
+    }
+]

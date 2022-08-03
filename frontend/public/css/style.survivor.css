@@ -1,0 +1,188 @@
+.bgfooter {
+    background-image: url('../img/bg-2.jpg');
+}
+
+.form-bgcolor {background-color: rgba(0,0,0,.2);}
+
+.img-example-user {background-image:url('../img/300_21.jpg');}
+
+.bg-tournamet-survivor {background-image:url('../img/pallone.jpg');}
+
+.bg-rubrica {
+    background-image:url('../img/stadium.jpg');
+}
+
+.overlay-rubrica {
+    -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: rgba(0, 0, 0, 0.7);
+  }
+
+.no-border {border: none !important}
+
+.border-title-home-danger {
+    border-left: 6px solid !important;
+    border-color: #F64E60 !important;
+}
+
+.border-title-home-green {
+    border-left: 6px solid !important;
+    border-color: #048a26 !important;
+}
+
+.border-title-home-primary {
+    border-left: 6px solid !important;
+    border-color: #3445E5 !important;
+}
+
+.img-home {    
+    height: 100% !important;
+    width: 100% !important;
+    max-height: initial;
+    display: block;
+    max-width: 100%;
+    object-fit: cover;
+    min-height: 300px;
+}
+
+.img-card {    
+    height: 100% !important;
+    width: 100% !important;
+    max-height: initial;
+    display: block;
+    max-width: 100%;
+    object-fit: cover;
+    min-height: 200px;
+}
+
+.overlay {
+    position: absolute; 
+    bottom: 0; 
+    background: rgb(0, 0, 0);
+    background: rgba(0, 0, 0, 0.5); /* Black see-through */
+    color: #f1f1f1; 
+    width: 100%;
+    opacity:1;
+    color: white;
+    padding: 20px;
+    text-align: center;
+  }
+
+.overlay-art {
+    position: absolute; 
+    bottom: 0; 
+    background: rgb(0, 0, 0);
+    background: rgba(0, 0, 0, 0.5); /* Black see-through */
+    color: #f1f1f1; 
+    width: 100%;
+    opacity:1;
+    color: white;
+    padding: 5px;
+    text-align: left;
+  }
+
+@media (max-width: 991.99px) {
+    .seriea-logo{
+        display: none !important;
+    }
+}
+
+@media (min-width: 992px) {
+    .seriea-team{
+        display: none !important;
+    }
+}
+
+.atalantabg{
+    background-image: url('../img/LoghiSerieA/atalanta.png');
+}
+
+.beneventobg{
+    background-image: url('../img/LoghiSerieA/benevento.png');
+}
+
+.bolognabg{
+    background-image: url('../img/LoghiSerieA/bologna.png');
+}
+
+.cagliaribg{
+    background-image: url('../img/LoghiSerieA/cagliari.png');
+}
+
+.crotonebg{
+    background-image: url('../img/LoghiSerieA/crotone.png');
+}
+
+.fiorentinabg{
+    background-image: url('../img/LoghiSerieA/fiorentina.png');
+}
+
+.genoabg{
+    background-image: url('../img/LoghiSerieA/genoa.png');
+}
+
+.interbg{
+    background-image: url('../img/LoghiSerieA/inter.png');
+}
+
+.juvebg{
+    background-image: url('../img/LoghiSerieA/juve.png');
+}
+
+.laziobg{
+    background-image: url('../img/LoghiSerieA/lazio.png');
+}
+
+.milanbg{
+    background-image: url('../img/LoghiSerieA/milan.png');
+}
+
+.napolibg{
+    background-image: url('../img/LoghiSerieA/napoli.png');
+}
+
+.parmabg{
+    background-image: url('../img/LoghiSerieA/parma.png');
+}
+
+.romabg{
+    background-image: url('../img/LoghiSerieA/roma.png');
+}
+
+.sampdoriabg{
+    background-image: url('../img/LoghiSerieA/sampdoria.png');
+}
+.sassuolobg{
+    background-image: url('../img/LoghiSerieA/sassuolo.png');
+}
+
+.speziabg{
+    background-image: url('../img/LoghiSerieA/spezia.png');
+}
+
+.torinobg{
+    background-image: url('../img/LoghiSerieA/torino.png');
+}
+
+.udinesebg{
+    background-image: url('../img/LoghiSerieA/udinese.png');
+}
+
+.veronabg{
+    background-image: url('../img/LoghiSerieA/verona.png');
+}
+
+.serieabg{
+    background-image: url('../img/LoghiSerieA/seriea.png');
+}
+
+.menu-squadre{max-width: 1200px !important;}
+
+.card-timeday{
+    background-position: right top; background-size: 30% auto;
+    background-image: url(../img/abstract-1.svg)
+}
+
+.imgcalendar{
+    width:15px;
+    height:15px;
+}

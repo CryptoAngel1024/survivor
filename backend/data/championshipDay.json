@@ -1,0 +1,51 @@
+[{
+    "day": 1,
+    "championship": "SERIE A",
+    "starting_date": "2021-06-01T21:00:00.000+00:00",
+    "flg_ending":true
+    },{
+    "day": 2,
+    "championship": "SERIE A",
+    "starting_date": "2021-06-08T21:00:00.000+00:00",
+    "flg_ending":true
+    },{
+    "day": 3,
+    "championship": "SERIE A",
+    "starting_date": "2021-06-15T21:00:00.000+00:00",
+    "flg_ending":true
+    },{
+    "day": 4,
+    "championship": "SERIE A",
+    "starting_date": "2021-06-22T21:00:00.000+00:00",
+    "flg_ending":true
+    },{
+    "day": 5,
+    "championship": "SERIE A",
+    "starting_date": "2021-11-06T13:00:00.000+00:00",
+    "flg_ending":true
+    },{
+    "day": 6,
+    "championship": "SERIE A",
+    "starting_date": "2021-11-10T21:00:00.000+00:00",
+    "flg_ending":false
+    },{
+    "day": 7,
+    "championship": "SERIE A",
+    "starting_date": "2021-11-15T21:00:00.000+00:00",
+    "flg_ending":false
+    },{
+    "day": 8,
+    "championship": "SERIE A",
+    "starting_date": "2021-11-23T21:00:00.000+00:00",
+    "flg_ending":false
+    },{
+    "day": 9,
+    "championship": "SERIE A",
+    "starting_date": "2021-11-27T08:00:00.000+00:00",
+    "flg_ending":false
+    },{
+    "day": 10,
+    "championship": "SERIE A",
+    "starting_date": "2021-11-27T10:10:00.000+00:00",
+    "flg_ending":false
+    }]

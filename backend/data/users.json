@@ -1,0 +1,284 @@
+[{
+    "name":"ANTONELLO",
+    "surname": "D'ALOIA",
+    "birth_date": "2002-11-13T00:00:00.000+00:00",
+    "creation_date":"2021-11-09T16:31:54.360+00:00",
+    "city": "FOGGIA",
+    "email": "antonello.daloia@gmail.com",
+    "username": "antonello.daloia90",
+    "password": "Antonello90!",
+    "telephone": "328987656",
+    "favourite_team": "BOLOGNA",
+    "gender": "Male",
+    "confirmation_code": null,
+    "league": [{
+        "name": "fantaghigi",
+        "status": "ACTIVE",
+        "role": "USER",
+        "tournament": [{
+            "tournament_id":"torneo1",
+            "flg_out": true,
+            "bet": [
+            {
+                "team": "CAGLIARI",
+                "championship_day":7,
+                "tournament_day":1,
+                "flg_result": false
+            }]
+        }]
+    }]
+},{
+    "name":"ALESSIO",
+    "surname": "DE VITA",
+    "birth_date": "2002-11-13T00:00:00.000+00:00",
+    "creation_date":"2021-11-09T16:31:54.360+00:00",
+    "city": "EBOLI",
+    "email": "alessio.devita@gmail.com",
+    "username": "admin",
+    "password": "admin",
+    "telephone": "328987656",
+    "favourite_team": "BOLOGNA",
+    "gender": "Male",
+    "confirmation_code": null,
+    "league": [{
+        "name": "fantaghigi",
+        "status": "ACTIVE",
+        "role": "OWNER",
+        "tournament": [{
+            "tournament_id":"torneo1",
+            "flg_out": false,
+            "bet": [
+            {
+                "team": "ROMA",
+                "championship_day":7,
+                "tournament_day":1,
+                "flg_result": true
+            },{
+                "team": "ATALANTA",
+                "championship_day":8,
+                "tournament_day":2,
+                "flg_result": true
+            },{
+                "team": "SAMPDORIA",
+                "championship_day":9,
+                "tournament_day":3,
+                "flg_result": true
+            },{
+                "team": "ROMA",
+                "championship_day":10,
+                "tournament_day":4
+            }]
+        }]
+    },{
+        "name": "fantaghigi2",
+        "status": "ACTIVE",
+        "role": "OWNER",
+        "tournament": [{
+            "tournament_id":"torneo2",
+            "flg_out": false
+        }]
+    }
+]
+},{
+    "name":"PIETRO",
+    "surname": "PELOSO",
+    "birth_date": "2002-11-13T00:00:00.000+00:00",
+    "creation_date":"2021-11-09T16:31:54.360+00:00",
+    "city": "FOGGIA",
+    "email": "pietro.peloso90@gmail.com",
+    "username": "pietro.peloso90",
+    "password": "Pietro90!",
+    "telephone": "328987656",
+    "favourite_team": "BOLOGNA",
+    "gender": "Male",
+    "confirmation_code": null,
+    "league": [{
+        "name": "fantaghigi",
+        "status": "ACTIVE",
+        "role": "USER",
+        "tournament": [{
+            "tournament_id":"torneo1",
+            "flg_out": false,
+            "bet": [
+            {
+                "team": "INTER",
+                "championship_day":7,
+                "tournament_day":1,
+                "flg_result": true
+            },{
+                "team": "CAGLIARI",
+                "championship_day":8,
+                "tournament_day":2,
+                "flg_result": true
+            },{
+                "team": "SAMPDORIA",
+                "championship_day":9,
+                "tournament_day":3,
+                "flg_result": true
+            },{
+                "team": "LAZIO",
+                "championship_day":10,
+                "tournament_day":4
+            }]
+        }]
+    },{
+        "name": "fantaghigi2",
+        "status": "ACTIVE",
+        "role": "USER",
+        "tournament": [{
+            "tournament_id":"torneo2",
+            "flg_out": false
+        }]
+    }]
+},{
+    "name":"ANGELO",
+    "surname": "DEL PRIORE",
+    "birth_date": "2002-11-13T00:00:00.000+00:00",
+    "creation_date":"2021-11-09T16:31:54.360+00:00",
+    "city": "FOGGIA",
+    "email": "angelo.delpriore@gmail.com",
+    "username": "angelo",
+    "password": "delpriore!",
+    "telephone": "328987656",
+    "favourite_team": "BOLOGNA",
+    "gender": "Male",
+    "confirmation_code": null,
+    "league": [{
+        "name": "fantaghigi",
+        "status": "ACTIVE",
+        "role": "USER",
+        "tournament": [{
+            "tournament_id":"torneo1",
+            "flg_out": false,
+            "bet": [
+            {
+                "team": "ROMA",
+                "championship_day":7,
+                "tournament_day":1,
+                "flg_result": true
+            },{
+                "team": "CAGLIARI",
+                "championship_day":8,
+                "tournament_day":2,
+                "flg_result": true
+            },{
+                "team": "SASSUOLO",
+                "championship_day":9,
+                "tournament_day":3,
+                "flg_result": true
+            }]
+        }]
+    }]
+},{
+    "name":"FEDELE",
+    "surname": "CURCIO",
+    "birth_date": "2002-11-13T00:00:00.000+00:00",
+    "creation_date":"2021-11-09T16:31:54.360+00:00",
+    "city": "FOGGIA",
+    "email": "fedele.curcio@gmail.com",
+    "username": "fedele",
+    "password": "curcio!",
+    "telephone": "328987656",
+    "favourite_team": "BOLOGNA",
+    "gender": "Male",
+    "confirmation_code": null,
+    "league": [{
+        "name": "fantaghigi",
+        "status": "ACTIVE",
+        "role": "USER",
+        "tournament": [{
+            "tournament_id":"torneo1",
+            "flg_out": true,
+            "bet": [
+            {
+                "team": "ROMA",
+                "championship_day":7,
+                "tournament_day":1,
+                "flg_result": true
+            },{
+                "team": "FIORENTINA",
+                "championship_day":8,
+                "tournament_day":2,
+                "flg_result": false
+            }]
+        }]
+    }]
+},{
+    "name":"MARCO",
+    "surname": "SUBRIZIO",
+    "birth_date": "2002-11-13T00:00:00.000+00:00",
+    "creation_date":"2021-11-09T16:31:54.360+00:00",
+    "city": "FOGGIA",
+    "email": "marco.subrizio@gmail.com",
+    "username": "marco",
+    "password": "subrizio!",
+    "telephone": "328987656",
+    "favourite_team": "BOLOGNA",
+    "gender": "Male",
+    "confirmation_code": null,
+    "league": [{
+        "name": "fantaghigi",
+        "status": "ACTIVE",
+        "role": "USER",
+        "tournament": [{
+            "tournament_id":"torneo1",
+            "flg_out": false,
+            "bet": [
+            {
+                "team": "ROMA",
+                "championship_day":7,
+                "tournament_day":1,
+                "flg_result": true
+            },{
+                "team": "NAPOLI",
+                "championship_day":8,
+                "tournament_day":2,
+                "flg_result": true
+            },{
+                "team": "SASSUOLO",
+                "championship_day":9,
+                "tournament_day":3,
+                "flg_result": true
+            }]
+        }]
+    }]
+},{
+    "name":"DOMENICO",
+    "surname": "DEL PRIORE",
+    "birth_date": "2002-11-13T00:00:00.000+00:00",
+    "creation_date":"2021-11-09T16:31:54.360+00:00",
+    "city": "FOGGIA",
+    "email": "Domenico.delpriore@gmail.com",
+    "username": "domenico",
+    "password": "delpriore!",
+    "telephone": "328987656",
+    "favourite_team": "BOLOGNA",
+    "gender": "Male",
+    "confirmation_code": null,
+    "league": [{
+        "name": "fantaghigi",
+        "status": "ACTIVE",
+        "role": "USER",
+        "tournament": [{
+            "tournament_id":"torneo1",
+            "flg_out": false,
+            "bet": [
+            {
+                "team": "ROMA",
+                "championship_day":7,
+                "tournament_day":1,
+                "flg_result": true
+            },{
+                "team": "CAGLIARI",
+                "championship_day":8,
+                "tournament_day":2,
+                "flg_result": true
+            },{
+                "team": "SASSUOLO",
+                "championship_day":9,
+                "tournament_day":3,
+                "flg_result": true
+            }]
+        }]
+    }]
+}]

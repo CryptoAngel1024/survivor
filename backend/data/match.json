@@ -1,0 +1,994 @@
+[
+{
+    "championship":"SERIE A",
+    "championship_day": 1,
+    "championship_date": "2021-08-21T18:30:00.000+00:00",
+    "team_home": "VERONA",
+	"team_away": "SASSUOLO",
+	"team_home_score": 2,
+	"team_away_score": 3,
+	"flg_ending": true
+},{
+    "championship":"SERIE A",
+    "championship_day": 1,
+    "championship_date": "2021-08-21T18:30:00.000+00:00",
+    "team_home": "INTER",
+	"team_away": "GENOA",
+	"team_home_score": 4,
+	"team_away_score": 0,
+	"flg_ending": true
+},{
+    "championship":"SERIE A",
+    "championship_day": 1,
+    "championship_date": "2021-08-21T20:45:00.000+00:00",
+    "team_home": "TORINO",
+	"team_away": "ATALANTA",
+	"team_home_score": 1,
+	"team_away_score": 2,
+	"flg_ending": true
+},{
+    "championship":"SERIE A",
+    "championship_day": 1,
+    "championship_date": "2021-08-21T20:45:00.000+00:00",
+    "team_home": "EMPOLI",
+	"team_away": "LAZIO",
+	"team_home_score": 1,
+	"team_away_score": 3,
+	"flg_ending": true
+},{
+    "championship":"SERIE A",
+    "championship_day": 1,
+    "championship_date": "2021-08-22T18:30:00.000+00:00",
+    "team_home": "UDINESE",
+	"team_away": "JUVENTUS",
+	"team_home_score": 2,
+	"team_away_score": 2,
+	"flg_ending": true
+},{
+    "championship":"SERIE A",
+    "championship_day": 1,
+    "championship_date": "2021-08-22T18:30:00.000+00:00",
+    "team_home": "BOLOGNA",
+	"team_away": "SALERNITANA",
+	"team_home_score": 3,
+	"team_away_score": 2,
+	"flg_ending": true
+},{
+    "championship":"SERIE A",
+    "championship_day": 1,
+    "championship_date": "2021-08-22T20:45:00.000+00:00",
+    "team_home": "ROMA",
+	"team_away": "FIORENTINA",
+	"team_home_score": 3,
+	"team_away_score": 1,
+	"flg_ending": true
+},{
+    "championship":"SERIE A",
+    "championship_day": 1,
+    "championship_date": "2021-08-22T20:45:00.000+00:00",
+    "team_home": "NAPOLI",
+	"team_away": "VENEZIA",
+	"team_home_score": 2,
+	"team_away_score": 0,
+	"flg_ending": true
+},{
+    "championship":"SERIE A",
+    "championship_day": 1,
+    "championship_date": "2021-08-23T18:30:00.000+00:00",
+    "team_home": "CAGLIARI",
+	"team_away": "SPEZIA",
+	"team_home_score": 2,
+	"team_away_score": 2,
+	"flg_ending": true
+},{
+    "championship":"SERIE A",
+    "championship_day": 1,
+    "championship_date": "2021-08-23T20:45:00.000+00:00",
+    "team_home": "SAMPDORIA",
+	"team_away": "MILAN",
+	"team_home_score": 0,
+	"team_away_score": 1,
+	"flg_ending": true
+},{
+    "championship":"SERIE A",
+    "championship_day": 2,
+    "championship_date": "2021-08-27T18:30:00.000+00:00",
+    "team_home": "UDINESE",
+	"team_away": "VENEZIA",
+	"team_home_score": 3,
+	"team_away_score": 0,
+	"flg_ending": true
+},{
+    "championship":"SERIE A",
+    "championship_day": 2,
+    "championship_date": "2021-08-27T20:45:00.000+00:00",
+    "team_home": "VERONA",
+	"team_away": "INTER",
+	"team_home_score": 1,
+	"team_away_score": 3,
+	"flg_ending": true
+},{
+    "championship":"SERIE A",
+    "championship_day": 2,
+    "championship_date": "2021-08-28T18:30:00.000+00:00",
+    "team_home": "LAZIO",
+	"team_away": "SPEZIA",
+	"team_home_score": 6,
+	"team_away_score": 1,
+	"flg_ending": true
+},{
+    "championship":"SERIE A",
+    "championship_day": 2,
+    "championship_date": "2021-08-28T18:30:00.000+00:00",
+    "team_home": "ATALANTA",
+	"team_away": "BOLOGNA",
+	"team_home_score": 0,
+	"team_away_score": 0,
+	"flg_ending": true
+},{
+    "championship":"SERIE A",
+    "championship_day": 2,
+    "championship_date": "2021-08-28T20:45:00.000+00:00",
+    "team_home": "JUVENTUS",
+	"team_away": "EMPOLI",
+	"team_home_score": 0,
+	"team_away_score": 1,
+	"flg_ending": true
+},{
+    "championship":"SERIE A",
+    "championship_day": 2,
+    "championship_date": "2021-08-28T20:45:00.000+00:00",
+    "team_home": "FIORENTINA",
+	"team_away": "TORINO",
+	"team_home_score": 2,
+	"team_away_score": 1,
+	"flg_ending": true
+},{
+    "championship":"SERIE A",
+    "championship_day": 2,
+    "championship_date": "2021-08-29T18:30:00.000+00:00",
+    "team_home": "SASSUOLO",
+	"team_away": "SAMPDORIA",
+	"team_home_score": 0,
+	"team_away_score": 0,
+	"flg_ending": true
+},{
+    "championship":"SERIE A",
+    "championship_day": 2,
+    "championship_date": "2021-08-29T18:30:00.000+00:00",
+    "team_home": "GENOA",
+	"team_away": "NAPOLI",
+	"team_home_score": 1,
+	"team_away_score": 2,
+	"flg_ending": true
+},{
+    "championship":"SERIE A",
+    "championship_day": 2,
+    "championship_date": "2021-08-29T20:45:00.000+00:00",
+    "team_home": "SALERNITANA",
+	"team_away": "ROMA",
+	"team_home_score": 0,
+	"team_away_score": 4,
+	"flg_ending": true
+},{
+    "championship":"SERIE A",
+    "championship_day": 2,
+    "championship_date": "2021-08-29T20:45:00.000+00:00",
+    "team_home": "MILAN",
+	"team_away": "CAGLIARI",
+	"team_home_score": 4,
+	"team_away_score": 1,
+	"flg_ending": true
+},{
+    "championship":"SERIE A",
+    "championship_day": 3,
+    "championship_date": "2021-09-11T15:00:00.000+00:00",
+    "team_home": "EMPOLI",
+	"team_away": "VENEZIA",
+	"team_home_score": 1,
+	"team_away_score": 2,
+	"flg_ending": true
+},{
+    "championship":"SERIE A",
+    "championship_day": 3,
+    "championship_date": "2021-09-11T18:00:00.000+00:00",
+    "team_home": "NAPOLI",
+	"team_away": "JUVENTUS",
+	"team_home_score": 2,
+	"team_away_score": 1,
+	"flg_ending": true
+},{
+    "championship":"SERIE A",
+    "championship_day": 3,
+    "championship_date": "2021-09-11T20:45:00.000+00:00",
+    "team_home": "ATALANTA",
+	"team_away": "FIORENTINA",
+	"team_home_score": 1,
+	"team_away_score": 2,
+	"flg_ending": true
+},{
+    "championship":"SERIE A",
+    "championship_day": 3,
+    "championship_date": "2021-09-12T12:30:00.000+00:00",
+    "team_home": "SAMPDORIA",
+	"team_away": "INTER",
+	"team_home_score": 2,
+	"team_away_score": 2,
+	"flg_ending": true
+},{
+    "championship":"SERIE A",
+    "championship_day": 3,
+    "championship_date": "2021-09-12T15:00:00.000+00:00",
+    "team_home": "TORINO",
+	"team_away": "SALERNITANA",
+	"team_home_score": 4,
+	"team_away_score": 0,
+	"flg_ending": true
+},{
+    "championship":"SERIE A",
+    "championship_day": 3,
+    "championship_date": "2021-09-12T15:00:00.000+00:00",
+    "team_home": "SPEZIA",
+	"team_away": "UDINESE",
+	"team_home_score": 0,
+	"team_away_score": 1,
+	"flg_ending": true
+},{
+    "championship":"SERIE A",
+    "championship_day": 3,
+    "championship_date": "2021-09-12T15:00:00.000+00:00",
+    "team_home": "CAGLIARI",
+	"team_away": "GENOA",
+	"team_home_score": 2,
+	"team_away_score": 3,
+	"flg_ending": true
+},{
+    "championship":"SERIE A",
+    "championship_day": 3,
+    "championship_date": "2021-09-12T18:00:00.000+00:00",
+    "team_home": "MILAN",
+	"team_away": "LAZIO",
+	"team_home_score": 2,
+	"team_away_score": 0,
+	"flg_ending": true
+},{
+    "championship":"SERIE A",
+    "championship_day": 3,
+    "championship_date": "2021-09-12T20:45:00.000+00:00",
+    "team_home": "ROMA",
+	"team_away": "SASSUOLO",
+	"team_home_score": 2,
+	"team_away_score": 1,
+	"flg_ending": true
+},{
+    "championship":"SERIE A",
+    "championship_day": 3,
+    "championship_date": "2021-09-13T20:45:00.000+00:00",
+    "team_home": "BOLOGNA",
+	"team_away": "VERONA",
+	"team_home_score": 1,
+	"team_away_score": 0,
+	"flg_ending": true
+},{
+    "championship":"SERIE A",
+    "championship_day": 4,
+    "championship_date": "2021-09-17T20:45:00.000+00:00",
+    "team_home": "SASSUOLO",
+	"team_away": "TORINO",
+	"team_home_score": 0,
+	"team_away_score": 1,
+	"flg_ending": true
+}
+,{
+    "championship":"SERIE A",
+    "championship_day": 4,
+    "championship_date": "2021-09-18T15:00:00.000+00:00",
+    "team_home": "GENOA",
+	"team_away": "FIORENTINA",
+	"team_home_score": 1,
+	"team_away_score": 2,
+	"flg_ending": true
+},{
+    "championship":"SERIE A",
+    "championship_day": 4,
+    "championship_date": "2021-09-18T18:00:00.000+00:00",
+    "team_home": "INTER",
+	"team_away": "BOLOGNA",
+	"team_home_score": 6,
+	"team_away_score": 1,
+	"flg_ending": true
+},{
+    "championship":"SERIE A",
+    "championship_day": 4,
+    "championship_date": "2021-09-18T20:45:00.000+00:00",
+    "team_home": "SALERNITANA",
+	"team_away": "ATALANTA",
+	"team_home_score": 0,
+	"team_away_score": 1,
+	"flg_ending": true
+},{
+    "championship":"SERIE A",
+    "championship_day": 4,
+    "championship_date": "2021-09-19T12:30:00.000+00:00",
+    "team_home": "EMPOLI",
+	"team_away": "SAMPDORIA",
+	"team_home_score": 0,
+	"team_away_score": 3,
+	"flg_ending": true
+},{
+    "championship":"SERIE A",
+    "championship_day": 4,
+    "championship_date": "2021-09-19T15:00:00.000+00:00",
+    "team_home": "VENEZIA",
+	"team_away": "SPEZIA",
+	"team_home_score": 1,
+	"team_away_score": 2,
+	"flg_ending": true
+},{
+    "championship":"SERIE A",
+    "championship_day": 4,
+    "championship_date": "2021-09-19T18:00:00.000+00:00",
+    "team_home": "VERONA",
+	"team_away": "ROMA",
+	"team_home_score": 3,
+	"team_away_score": 2,
+	"flg_ending": true
+},{
+    "championship":"SERIE A",
+    "championship_day": 4,
+    "championship_date": "2021-09-19T18:00:00.000+00:00",
+    "team_home": "LAZIO",
+	"team_away": "CAGLIARI",
+	"team_home_score": 2,
+	"team_away_score": 2,
+	"flg_ending": true
+},{
+    "championship":"SERIE A",
+    "championship_day": 4,
+    "championship_date": "2021-09-19T20:45:00.000+00:00",
+    "team_home": "JUVENTUS",
+	"team_away": "MILAN",
+	"team_home_score": 1,
+	"team_away_score": 1,
+	"flg_ending": true
+},{
+    "championship":"SERIE A",
+    "championship_day": 4,
+    "championship_date": "2021-09-20T20:45:00.000+00:00",
+    "team_home": "UDINESE",
+	"team_away": "NAPOLI",
+	"team_home_score": 0,
+	"team_away_score": 4,
+	"flg_ending": true
+},{
+    "championship":"SERIE A",
+    "championship_day": 5,
+    "championship_date": "2021-09-21T18:30:00.000+00:00",
+    "team_home": "BOLOGNA",
+	"team_away": "GENOA",
+	"team_home_score": 2,
+	"team_away_score": 2,
+	"flg_ending": true
+},{
+    "championship":"SERIE A",
+    "championship_day": 5,
+    "championship_date": "2021-09-21T20:45:00.000+00:00",
+    "team_home": "FIORENTINA",
+	"team_away": "INTER",
+	"team_home_score": 1,
+	"team_away_score": 3,
+	"flg_ending": true
+},{
+    "championship":"SERIE A",
+    "championship_day": 5,
+    "championship_date": "2021-09-21T20:45:00.000+00:00",
+    "team_home": "ATALANTA",
+	"team_away": "SASSUOLO",
+	"team_home_score": 2,
+	"team_away_score": 1,
+	"flg_ending": true
+},{
+    "championship":"SERIE A",
+    "championship_day": 5,
+    "championship_date": "2021-09-22T18:30:00.000+00:00",
+    "team_home": "SPEZIA",
+	"team_away": "JUVENTUS",
+	"team_home_score": 2,
+	"team_away_score": 3,
+	"flg_ending": true
+},{
+    "championship":"SERIE A",
+    "championship_day": 5,
+    "championship_date": "2021-09-22T18:30:00.000+00:00",
+    "team_home": "SALERNITANA",
+	"team_away": "VERONA",
+	"team_home_score": 2,
+	"team_away_score": 2,
+	"flg_ending": true
+},{
+    "championship":"SERIE A",
+    "championship_day": 5,
+    "championship_date": "2021-09-22T20:45:00.000+00:00",
+    "team_home": "MILAN",
+	"team_away": "VERONA",
+	"team_home_score": 2,
+	"team_away_score": 0,
+	"flg_ending": true
+},{
+    "championship":"SERIE A",
+    "championship_day": 5,
+    "championship_date": "2021-09-22T20:45:00.000+00:00",
+    "team_home": "CAGLIARI",
+	"team_away": "EMPOLI",
+	"team_home_score": 0,
+	"team_away_score": 2,
+	"flg_ending": true
+},{
+    "championship":"SERIE A",
+    "championship_day": 5,
+    "championship_date": "2021-09-23T18:30:00.000+00:00",
+    "team_home": "TORINO",
+	"team_away": "LAZIO",
+	"team_home_score": 1,
+	"team_away_score": 1,
+	"flg_ending": true
+},{
+    "championship":"SERIE A",
+    "championship_day": 5,
+    "championship_date": "2021-09-23T18:30:00.000+00:00",
+    "team_home": "SAMPDORIA",
+	"team_away": "NAPOLI",
+	"team_home_score": 0,
+	"team_away_score": 4,
+	"flg_ending": true
+},{
+    "championship":"SERIE A",
+    "championship_day": 5,
+    "championship_date": "2021-09-23T20:45:00.000+00:00",
+    "team_home": "ROMA",
+	"team_away": "UDINESE",
+	"team_home_score": 1,
+	"team_away_score": 0,
+	"flg_ending": true
+},{
+    "championship":"SERIE A",
+    "championship_day": 6,
+    "championship_date": "2021-09-25T15:00:00.000+00:00",
+    "team_home": "SPEZIA",
+	"team_away": "MILAN",
+	"team_home_score": 1,
+	"team_away_score": 2,
+	"flg_ending": true
+},{
+    "championship":"SERIE A",
+    "championship_day": 6,
+    "championship_date": "2021-09-25T18:00:00.000+00:00",
+    "team_home": "INTER",
+	"team_away": "ATALANTA",
+	"team_home_score": 2,
+	"team_away_score": 2,
+	"flg_ending": true
+},{
+    "championship":"SERIE A",
+    "championship_day": 6,
+    "championship_date": "2021-09-25T20:45:00.000+00:00",
+    "team_home": "GENOA",
+	"team_away": "VERONA",
+	"team_home_score": 3,
+	"team_away_score": 3,
+	"flg_ending": true
+},{
+    "championship":"SERIE A",
+    "championship_day": 6,
+    "championship_date": "2021-09-26T12:30:00.000+00:00",
+    "team_home": "JUVENTUS",
+	"team_away": "SAMPDORIA",
+	"team_home_score": 3,
+	"team_away_score": 2,
+	"flg_ending": true
+},{
+    "championship":"SERIE A",
+    "championship_day": 6,
+    "championship_date": "2021-09-26T15:00:00.000+00:00",
+    "team_home": "UDINESE",
+	"team_away": "FIORENTINA",
+	"team_home_score": 0,
+	"team_away_score": 1,
+	"flg_ending": true
+},{
+    "championship":"SERIE A",
+    "championship_day": 6,
+    "championship_date": "2021-09-26T15:00:00.000+00:00",
+    "team_home": "SASSUOLO",
+	"team_away": "SALERNITANA",
+	"team_home_score": 1,
+	"team_away_score": 0,
+	"flg_ending": true
+},{
+    "championship":"SERIE A",
+    "championship_day": 6,
+    "championship_date": "2021-09-26T15:00:00.000+00:00",
+    "team_home": "EMPOLI",
+	"team_away": "BOLOGNA",
+	"team_home_score": 4,
+	"team_away_score": 2,
+	"flg_ending": true
+},{
+    "championship":"SERIE A",
+    "championship_day": 6,
+    "championship_date": "2021-09-26T18:00:00.000+00:00",
+    "team_home": "LAZIO",
+	"team_away": "ROMA",
+	"team_home_score": 3,
+	"team_away_score": 2,
+	"flg_ending": true
+},{
+    "championship":"SERIE A",
+    "championship_day": 6,
+    "championship_date": "2021-09-26T20:45:00.000+00:00",
+    "team_home": "NAPOLI",
+	"team_away": "CAGLIARI",
+	"team_home_score": 2,
+	"team_away_score": 0,
+	"flg_ending": true
+},{
+    "championship":"SERIE A",
+    "championship_day": 6,
+    "championship_date": "2021-09-27T20:45:00.000+00:00",
+    "team_home": "VENEZIA",
+	"team_away": "TORINO",
+	"team_home_score": 1,
+	"team_away_score": 1,
+	"flg_ending": true
+},{
+    "championship":"SERIE A",
+    "championship_day": 7,
+    "championship_date": "2021-10-01T20:45:00.000+00:00",
+    "team_home": "CAGLIARI",
+	"team_away": "VENEZIA",
+	"team_home_score": 1,
+	"team_away_score": 1,
+	"flg_ending": true
+},{
+    "championship":"SERIE A",
+    "championship_day": 7,
+    "championship_date": "2021-10-02T15:00:00.000+00:00",
+    "team_home": "SALERNITANA",
+	"team_away": "GENOA",
+	"team_home_score": 1,
+	"team_away_score": 0,
+	"flg_ending": true
+},{
+    "championship":"SERIE A",
+    "championship_day": 7,
+    "championship_date": "2021-10-02T18:00:00.000+00:00",
+    "team_home": "TORINO",
+	"team_away": "JUVENTUS",
+	"team_home_score": 0,
+	"team_away_score": 1,
+	"flg_ending": true
+},{
+    "championship":"SERIE A",
+    "championship_day": 7,
+    "championship_date": "2021-10-02T20:45:00.000+00:00",
+    "team_home": "SASSUOLO",
+	"team_away": "INTER",
+	"team_home_score": 1,
+	"team_away_score": 2,
+	"flg_ending": true
+},{
+    "championship":"SERIE A",
+    "championship_day": 7,
+    "championship_date": "2021-10-03T12:30:00.000+00:00",
+    "team_home": "BOLOGNA",
+	"team_away": "LAZIO",
+	"team_home_score": 3,
+	"team_away_score": 0,
+	"flg_ending": true
+},{
+    "championship":"SERIE A",
+    "championship_day": 7,
+    "championship_date": "2021-10-03T15:00:00.000+00:00",
+    "team_home": "VERONA",
+	"team_away": "SPEZIA",
+	"team_home_score": 4,
+	"team_away_score": 0,
+	"flg_ending": true
+},{
+    "championship":"SERIE A",
+    "championship_day": 7,
+    "championship_date": "2021-10-03T15:00:00.000+00:00",
+    "team_home": "SAMPDORIA",
+	"team_away": "UDINESE",
+	"team_home_score": 3,
+	"team_away_score": 3,
+	"flg_ending": true
+},{
+    "championship":"SERIE A",
+    "championship_day": 7,
+    "championship_date": "2021-10-03T18:00:00.000+00:00",
+    "team_home": "ROMA",
+	"team_away": "EMPOLI",
+	"team_home_score": 2,
+	"team_away_score": 0,
+	"flg_ending": true
+},{
+    "championship":"SERIE A",
+    "championship_day": 7,
+    "championship_date": "2021-10-03T18:00:00.000+00:00",
+    "team_home": "FIORENTINA",
+	"team_away": "NAPOLI",
+	"team_home_score": 1,
+	"team_away_score": 2,
+	"flg_ending": true
+},{
+    "championship":"SERIE A",
+    "championship_day": 7,
+    "championship_date": "2021-10-03T20:45:00.000+00:00",
+    "team_home": "ATALANTA",
+	"team_away": "MILAN",
+	"team_home_score": 2,
+	"team_away_score": 3,
+	"flg_ending": true
+},{
+    "championship":"SERIE A",
+    "championship_day": 8,
+    "championship_date": "2021-10-16T15:00:00.000+00:00",
+    "team_home": "SPEZIA",
+	"team_away": "SALERNITANA",
+	"team_home_score": 2,
+	"team_away_score": 1,
+	"flg_ending": true
+},{
+    "championship":"SERIE A",
+    "championship_day": 8,
+    "championship_date": "2021-10-16T18:00:00.000+00:00",
+    "team_home": "LAZIO",
+	"team_away": "INTER",
+	"team_home_score": 3,
+	"team_away_score": 1,
+	"flg_ending": true
+},{
+    "championship":"SERIE A",
+    "championship_day": 8,
+    "championship_date": "2021-10-16T20:45:00.000+00:00",
+    "team_home": "MILAN",
+	"team_away": "VERONA",
+	"team_home_score": 2,
+	"team_away_score": 1,
+	"flg_ending": true
+},{
+    "championship":"SERIE A",
+    "championship_day": 8,
+    "championship_date": "2021-10-17T12:30:00.000+00:00",
+    "team_home": "CAGLIARI",
+	"team_away": "SAMPDORIA",
+	"team_home_score": 3,
+	"team_away_score": 1,
+	"flg_ending": true
+},{
+    "championship":"SERIE A",
+    "championship_day": 8,
+    "championship_date": "2021-10-17T15:00:00.000+00:00",
+    "team_home": "UDINESE",
+	"team_away": "BOLOGNA",
+	"team_home_score": 2,
+	"team_away_score": 1,
+	"flg_ending": true
+},{
+    "championship":"SERIE A",
+    "championship_day": 8,
+    "championship_date": "2021-10-17T15:00:00.000+00:00",
+    "team_home": "GENOA",
+	"team_away": "SASSUOLO",
+	"team_home_score": 2,
+	"team_away_score": 2,
+	"flg_ending": true
+},{
+    "championship":"SERIE A",
+    "championship_day": 8,
+    "championship_date": "2021-10-17T15:00:00.000+00:00",
+    "team_home": "EMPOLI",
+	"team_away": "ATALANTA",
+	"team_home_score": 1,
+	"team_away_score": 4,
+	"flg_ending": true
+},{
+    "championship":"SERIE A",
+    "championship_day": 8,
+    "championship_date": "2021-10-17T18:00:00.000+00:00",
+    "team_home": "NAPOLI",
+	"team_away": "TORINO",
+	"team_home_score": 1,
+	"team_away_score": 0,
+	"flg_ending": true
+},{
+    "championship":"SERIE A",
+    "championship_day": 8,
+    "championship_date": "2021-10-17T20:45:00.000+00:00",
+    "team_home": "JUVENTUS",
+	"team_away": "ROMA",
+	"team_home_score": 1,
+	"team_away_score": 0,
+	"flg_ending": true
+},{
+    "championship":"SERIE A",
+    "championship_day": 8,
+    "championship_date": "2021-10-18T20:45:00.000+00:00",
+    "team_home": "VENEZIA",
+	"team_away": "FIORENTINA",
+	"team_home_score": 1,
+	"team_away_score": 0,
+	"flg_ending": true
+},{
+    "championship":"SERIE A",
+    "championship_day": 9,
+    "championship_date": "2021-10-22T18:30:00.000+00:00",
+    "team_home": "TORINO",
+	"team_away": "GENOA",
+	"team_home_score": 3,
+	"team_away_score": 2,
+	"flg_ending": true
+},{
+    "championship":"SERIE A",
+    "championship_day": 9,
+    "championship_date": "2021-10-22T20:45:00.000+00:00",
+    "team_home": "SAMPDORIA",
+	"team_away": "SPEZIA",
+	"team_home_score": 2,
+	"team_away_score": 1,
+	"flg_ending": true
+},{
+    "championship":"SERIE A",
+    "championship_day": 9,
+    "championship_date": "2021-10-23T15:00:00.000+00:00",
+    "team_home": "SALERNITANA",
+	"team_away": "EMPOLI",
+	"team_home_score": 2,
+	"team_away_score": 4,
+	"flg_ending": true
+},{
+    "championship":"SERIE A",
+    "championship_day": 9,
+    "championship_date": "2021-10-23T18:00:00.000+00:00",
+    "team_home": "SASSUOLO",
+	"team_away": "VENEZIA",
+	"team_home_score": 3,
+	"team_away_score": 1,
+	"flg_ending": true
+},{
+    "championship":"SERIE A",
+    "championship_day": 9,
+    "championship_date": "2021-10-23T20:45:00.000+00:00",
+    "team_home": "BOLOGNA",
+	"team_away": "MILAN",
+	"team_home_score": 2,
+	"team_away_score": 4,
+	"flg_ending": true
+},{
+    "championship":"SERIE A",
+    "championship_day": 9,
+    "championship_date": "2021-10-24T12:30:00.000+00:00",
+    "team_home": "ATALANTA",
+	"team_away": "UDINESE",
+	"team_home_score": 1,
+	"team_away_score": 1,
+	"flg_ending": true
+},{
+    "championship":"SERIE A",
+    "championship_day": 9,
+    "championship_date": "2021-10-24T15:00:00.000+00:00",
+    "team_home": "FIORENTINA",
+	"team_away": "CAGLIARI",
+	"team_home_score": 3,
+	"team_away_score": 0,
+	"flg_ending": true
+},{
+    "championship":"SERIE A",
+    "championship_day": 9,
+    "championship_date": "2021-10-24T15:00:00.000+00:00",
+    "team_home": "VERONA",
+	"team_away": "LAZIO",
+	"team_home_score": 4,
+	"team_away_score": 1,
+	"flg_ending": true
+},{
+    "championship":"SERIE A",
+    "championship_day": 9,
+    "championship_date": "2021-10-24T18:00:00.000+00:00",
+    "team_home": "ROMA",
+	"team_away": "NAPOLI",
+	"team_home_score": 0,
+	"team_away_score": 0,
+	"flg_ending": true
+},{
+    "championship":"SERIE A",
+    "championship_day": 9,
+    "championship_date": "2021-10-24T20:45:00.000+00:00",
+    "team_home": "INTER",
+	"team_away": "JUVENTUS",
+	"team_home_score": 1,
+	"team_away_score": 1,
+	"flg_ending": true
+},{
+    "championship":"SERIE A",
+    "championship_day": 10,
+    "championship_date": "2021-10-26T18:30:00.000+00:00",
+    "team_home": "SPEZIA",
+	"team_away": "GENOA",
+	"team_home_score": 0,
+	"team_away_score": 0,
+	"flg_ending": false
+},{
+    "championship":"SERIE A",
+    "championship_day": 10,
+    "championship_date": "2021-10-26T18:30:00.000+00:00",
+    "team_home": "VENEZIA",
+	"team_away": "SALERNITANA",
+	"team_home_score": 0,
+	"team_away_score": 0,
+	"flg_ending": false
+},{
+    "championship":"SERIE A",
+    "championship_day": 10,
+    "championship_date": "2021-10-26T20:45:00.000+00:00",
+    "team_home": "MILAN",
+	"team_away": "TORINO",
+	"team_home_score": 0,
+	"team_away_score": 0,
+	"flg_ending": false
+},{
+    "championship":"SERIE A",
+    "championship_day": 10,
+    "championship_date": "2021-10-27T18:30:00.000+00:00",
+    "team_home": "JUVENTUS",
+	"team_away": "SASSUOLO",
+	"team_home_score": 0,
+	"team_away_score": 0,
+	"flg_ending": false
+},{
+    "championship":"SERIE A",
+    "championship_day": 10,
+    "championship_date": "2021-10-27T18:30:00.000+00:00",
+    "team_home": "SAMPDORIA",
+	"team_away": "ATALANTA",
+	"team_home_score": 0,
+	"team_away_score": 0,
+	"flg_ending": false
+},{
+    "championship":"SERIE A",
+    "championship_day": 10,
+    "championship_date": "2021-10-27T18:30:00.000+00:00",
+    "team_home": "UDINESE",
+	"team_away": "VERONA",
+	"team_home_score": 0,
+	"team_away_score": 0,
+	"flg_ending": false
+},{
+    "championship":"SERIE A",
+    "championship_day": 10,
+    "championship_date": "2021-10-27T20:45:00.000+00:00",
+    "team_home": "CAGLIARI",
+	"team_away": "ROMA",
+	"team_home_score": 0,
+	"team_away_score": 0,
+	"flg_ending": false
+},{
+    "championship":"SERIE A",
+    "championship_day": 10,
+    "championship_date": "2021-10-27T20:45:00.000+00:00",
+    "team_home": "EMPOLI",
+	"team_away": "INTER",
+	"team_home_score": 0,
+	"team_away_score": 0,
+	"flg_ending": false
+},{
+    "championship":"SERIE A",
+    "championship_day": 10,
+    "championship_date": "2021-10-27T20:45:00.000+00:00",
+    "team_home": "LAZIO",
+	"team_away": "FIORENTINA",
+	"team_home_score": 0,
+	"team_away_score": 0,
+	"flg_ending": false
+},{
+    "championship":"SERIE A",
+    "championship_day": 10,
+    "championship_date": "2021-10-28T20:45:00.000+00:00",
+    "team_home": "NAPOLI",
+	"team_away": "BOLOGNA",
+	"team_home_score": 0,
+	"team_away_score": 0,
+	"flg_ending": false
+},{
+    "championship":"SERIE A",
+    "championship_day": 11,
+    "championship_date": "2021-10-30T15:00:00.000+00:00",
+    "team_home": "ATALANTA",
+	"team_away": "LAZIO",
+	"team_home_score": 0,
+	"team_away_score": 0,
+	"flg_ending": false
+},{
+    "championship":"SERIE A",
+    "championship_day": 11,
+    "championship_date": "2021-10-30T18:00:00.000+00:00",
+    "team_home": "VERONA",
+	"team_away": "JUVENTUS",
+	"team_home_score": 0,
+	"team_away_score": 0,
+	"flg_ending": false
+},{
+    "championship":"SERIE A",
+    "championship_day": 11,
+    "championship_date": "2021-10-30T20:45:00.000+00:00",
+    "team_home": "TORINO",
+	"team_away": "SAMPDORIA",
+	"team_home_score": 0,
+	"team_away_score": 0,
+	"flg_ending": false
+},{
+    "championship":"SERIE A",
+    "championship_day": 11,
+    "championship_date": "2021-10-31T12:30:00.000+00:00",
+    "team_home": "INTER",
+	"team_away": "UDINESE",
+	"team_home_score": 0,
+	"team_away_score": 0,
+	"flg_ending": false
+},{
+    "championship":"SERIE A",
+    "championship_day": 11,
+    "championship_date": "2021-10-31T15:00:00.000+00:00",
+    "team_home": "FIORENTINA",
+	"team_away": "SPEZIA",
+	"team_home_score": 0,
+	"team_away_score": 0,
+	"flg_ending": false
+},{
+    "championship":"SERIE A",
+    "championship_day": 11,
+    "championship_date": "2021-10-31T15:00:00.000+00:00",
+    "team_home": "GENOA",
+	"team_away": "VENEZIA",
+	"team_home_score": 0,
+	"team_away_score": 0,
+	"flg_ending": false
+},{
+    "championship":"SERIE A",
+    "championship_day": 11,
+    "championship_date": "2021-10-31T15:00:00.000+00:00",
+    "team_home": "SASSUOLO",
+	"team_away": "EMPOLI",
+	"team_home_score": 0,
+	"team_away_score": 0,
+	"flg_ending": false
+},{
+    "championship":"SERIE A",
+    "championship_day": 11,
+    "championship_date": "2021-10-31T18:00:00.000+00:00",
+    "team_home": "SALERNITANA",
+	"team_away": "NAPOLI",
+	"team_home_score": 0,
+	"team_away_score": 0,
+	"flg_ending": false
+},{
+    "championship":"SERIE A",
+    "championship_day": 11,
+    "championship_date": "2021-10-31T20:45:00.000+00:00",
+    "team_home": "ROMA",
+	"team_away": "MILAN",
+	"team_home_score": 0,
+	"team_away_score": 0,
+	"flg_ending": false
+},{
+    "championship":"SERIE A",
+    "championship_day": 11,
+    "championship_date": "2021-10-31T20:45:00.000+00:00",
+    "team_home": "BOLOGNA",
+	"team_away": "CAGLIARI",
+	"team_home_score": 0,
+	"team_away_score": 0,
+	"flg_ending": false
+}
+]
